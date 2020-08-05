@@ -1,16 +1,15 @@
-### Hi there 👋
+### Heya Its Abhinav Jha Digital Marketer|Data Scientist|Freelancer👋
 
-<!--
-**abhinavjha98/abhinavjha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Odoo, Creating UI designing,Leading some teams
+- 🌱 I’m currently learning ... Functionalities of different cloud environments
+- 👯 I’m looking to collaborate on ... Any new industrial 4.0 Technologies
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything 
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhinavjha98/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Work with me you will never feel bored 😎
+
