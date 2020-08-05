@@ -1,8 +1,6 @@
 ### Heya Its Abhinav Jha Digital Marketer|Data Scientist|Freelancer👋
 
-
-
-Here are some ideas to get you started:
+https://user-images.githubusercontent.com/34500576/89392832-ab8c0c80-d727-11ea-9fc2-d7941ecb79f5.png
 
 - 🔭 I’m currently working on ... Odoo, Creating UI designing,Leading some teams
 - 🌱 I’m currently learning ... Functionalities of different cloud environments
