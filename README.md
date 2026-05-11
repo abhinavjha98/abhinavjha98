@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER - 100% works on GitHub -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Jha;Senior+Software+Developer+%7C+AI+%26+LLM+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Jha;Senior+Software+Developer+%7C+AI+%26+LLM+Engineer)](https://git.io/typing-svg)
 
 <!-- ANIMATED SUBTITLE TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Builder+%F0%9F%9A%80;LLM+%26+RAG+Pipeline+Engineer+%F0%9F%A4%96;Building+AI-Powered+Products+%F0%9F%92%A1;Code.+Create.+Innovate.+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&height=50&lines=Full-Stack+Builder+%F0%9F%9A%80;LLM+%26+RAG+Pipeline+Engineer+%F0%9F%A4%96;Building+AI-Powered+Products+%F0%9F%92%A1;Code.+Create.+Innovate.+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
