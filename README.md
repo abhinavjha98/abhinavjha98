@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER - 100% works on GitHub -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Jha;Senior+Software+Developer+%7C+AI+%26+LLM+Engineer)](https://git.io/typing-svg)
-
-<!-- ANIMATED SUBTITLE TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Builder+%F0%9F%9A%80;LLM+%26+RAG+Pipeline+Engineer+%F0%9F%A4%96;Building+AI-Powered+Products+%F0%9F%92%A1;Code.+Create.+Innovate.+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I%27m+Abhinav+Jha!;Senior+Software+Developer;AI+%26+LLM+Engineer+%F0%9F%A4%96;Full-Stack+Builder+%F0%9F%9A%80;Code.+Create.+Innovate.+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -85,7 +82,8 @@ me.say_hi()
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -149,17 +147,21 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavjha98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjha98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavjha98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavjha98&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavjha98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavjha98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
 </div>
 
 ---
