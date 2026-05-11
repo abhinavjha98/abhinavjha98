@@ -1,13 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhinav%20Jha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20AI%20%26%20LLM%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=18" />
+<!-- ANIMATED TYPING HEADER - 100% works on GitHub -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Jha;Senior+Software+Developer+%7C+AI+%26+LLM+Engineer)](https://git.io/typing-svg)
 
-<!-- Profile Views & Trophies -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abhinavjha98&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhinavjha98?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-</p>
+<!-- ANIMATED SUBTITLE TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Builder+%F0%9F%9A%80;LLM+%26+RAG+Pipeline+Engineer+%F0%9F%A4%96;Building+AI-Powered+Products+%F0%9F%92%A1;Code.+Create.+Innovate.+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhinavjha98&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/abhinavjha98?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 
 </div>
 
@@ -18,14 +21,14 @@
 ```python
 class AbhinavJha:
     def __init__(self):
-        self.name         = "Abhinav Jha"
-        self.role         = "Senior Software Developer | AI/LLM Engineer"
-        self.location     = "Bradford, United Kingdom 🇬🇧"
-        self.passion      = "Building intelligent apps that solve real-world problems"
-        self.expertise    = ["Full-Stack Development", "AI/LLM Engineering", "RAG Pipelines", "Healthcare AI"]
-        self.languages    = ["Python", "JavaScript", "TypeScript", "SQL", "Dart"]
-        self.currently    = "Building AI-powered SaaS products & LLM-driven pipelines"
-        self.fun_fact     = "Work with me — you'll never feel bored 😎"
+        self.role      = "Senior Software Developer | AI/LLM Engineer"
+        self.location  = "Bradford, United Kingdom 🇬🇧"
+        self.passion   = "Building intelligent apps that solve real-world problems"
+        self.expertise = ["Full-Stack Development", "AI/LLM Engineering",
+                          "RAG Pipelines", "Healthcare AI"]
+        self.languages = ["Python", "JavaScript", "TypeScript", "SQL", "Dart"]
+        self.building  = "AI-powered SaaS products & LLM-driven pipelines"
+        self.fun_fact  = "Work with me — you'll never feel bored 😎"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -38,18 +41,14 @@ me.say_hi()
 
 ## 🤖 AI & LLM Engineering
 
-<div align="center">
-
 | Domain | Technologies |
 |---|---|
-| **LLM Frameworks** | LangChain · LangGraph · LlamaIndex · Hugging Face |
-| **RAG Architecture** | Azure AI Search · FAISS · Pinecone · HyDE |
-| **LLM Models** | GPT-4o · Claude · Llama · Mistral · OpenAI Embeddings |
-| **AI Platforms** | Azure OpenAI · AWS Bedrock · Google Vertex AI |
-| **ML/DL** | PyTorch · TensorFlow · Scikit-learn · OpenCV |
-| **NLP & Detection** | PHI/PII Detection · Document Intelligence · Named Entity Recognition |
-
-</div>
+| 🔗 **LLM Frameworks** | LangChain · LangGraph · LlamaIndex · Hugging Face |
+| 🔍 **RAG Architecture** | Azure AI Search · FAISS · Pinecone · HyDE |
+| 🧠 **LLM Models** | GPT-4o · Claude · Llama · Mistral · OpenAI Embeddings |
+| ☁️ **AI Platforms** | Azure OpenAI · AWS Bedrock · Google Vertex AI |
+| 📊 **ML / DL** | PyTorch · TensorFlow · Scikit-learn · OpenCV |
+| 🛡️ **NLP & Detection** | PHI/PII Detection · Document Intelligence · NER |
 
 ---
 
@@ -67,16 +66,12 @@ me.say_hi()
 
 ## 🏗️ Featured AI Projects
 
-<div align="center">
-
 | Project | Description | Stack |
 |---|---|---|
-| **SALLI** | NHS Document Intelligence Pipeline — RAG-based medical record extraction | Azure AI Search · LangGraph · GPT-4o · Python |
-| **SecureForme** | DLP/PHI/PII detection engine for enterprise data protection | Python · NLP · Django · Azure |
-| **Effortly** | Behavioural anomaly detection & AI-powered productivity scoring | Python · ML · React · FastAPI |
-| **Email Phishing Detector** | NLP-based real-time phishing classification system | Python · Transformers · Scikit-learn |
-
-</div>
+| ⚕️ **SALLI** | NHS Document Intelligence Pipeline — RAG-based medical record extraction | Azure AI Search · LangGraph · GPT-4o · Python |
+| 🔒 **SecureForme** | Enterprise DLP/PHI/PII detection engine for data protection | Python · NLP · Django · Azure |
+| 📊 **Effortly** | Behavioural anomaly detection & AI-powered productivity scoring | Python · ML · React · FastAPI |
+| 🎣 **Phish Detector** | NLP-based real-time email phishing classification system | Python · Transformers · Scikit-learn |
 
 ---
 
@@ -89,7 +84,6 @@ me.say_hi()
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -100,7 +94,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
 </p>
 
 ### 🖥️ Frontend
@@ -120,7 +113,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
@@ -130,7 +122,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
@@ -141,7 +132,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
 ### 🔧 Tools & Others
@@ -151,7 +141,6 @@ me.say_hi()
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 </p>
 
@@ -160,16 +149,17 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavjha98&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavjha98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhinavjha98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavjha98&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavjha98&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -179,7 +169,9 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavjha98)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavjha98)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavjha98ald@gmail.com)
 
 </div>
@@ -189,7 +181,5 @@ me.say_hi()
 <div align="center">
 
 *"I don't just write code — I architect experiences, automate intelligently, and build AI-powered products that make an impact."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
